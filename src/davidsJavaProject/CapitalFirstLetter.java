@@ -7,5 +7,6 @@ public class CapitalFirstLetter {
 		System.out.println("This works well");
 		System.out.println("Commit #4");
 		System.out.println("Commit #5");
+		System.out.println("Commit #6");
 	}
 }
