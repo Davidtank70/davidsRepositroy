@@ -11,5 +11,6 @@ public class CapitalFirstLetter {
 		System.out.println("Commit #7");
 		System.out.println("Commit #8");
 		System.out.println("Commit #9");
+		System.out.println("Commit #10");
 	}
 }
